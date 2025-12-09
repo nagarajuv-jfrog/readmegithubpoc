@@ -47,7 +47,7 @@
         "tags": [
           "pet"
         ],
-        "summary": "uploads an image",
+        "summary": "uploads an image11",
         "description": "",
         "operationId": "uploadFile",
         "consumes": [
